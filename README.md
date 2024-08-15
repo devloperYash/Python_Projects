@@ -1,15 +1,12 @@
 # Python_Projects
 
 Projects/
-├── Project1_ToDo.py		
-|
-├── Project2_calculator.py	
-|
-├── Project3_Pass.py	
-|
+├── Project1_ToDo.py
+├── Project2_calculator.py
+├── Project3_Pass.py
 ├── Project4_Rock.py
-|
-└── Project5_Contact.py																																											
+└── Project5_Contact.py
+																																										
 
 Project Descriptions
 1. Project1_ToDo.py
